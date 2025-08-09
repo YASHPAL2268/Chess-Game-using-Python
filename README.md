@@ -29,6 +29,5 @@ This version includes:
 - **Python 3**
 - **Pygame** (for graphics and game loop)
 
----
 
-## 📂 Project Structure
+
