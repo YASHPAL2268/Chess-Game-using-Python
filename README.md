@@ -1,9 +1,34 @@
-# Chess Game using Pygame
-This code explains on how to create your own Chess Game using the Python Pygame Library.
-Build your own Chess Game and experiment it.
+# Python Chess Game (Pygame)
 
-## Youtube Tutorial
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yeBOopkWqe0/0.jpg)](https://www.youtube.com/watch?v=yeBOopkWqe0)
+A simple chess game built using **Python** and **Pygame**.  
+This version includes:
+- Basic chess rules
+- Pawn promotion
+- Check and checkmate detection
+- Highlighting possible moves for a selected piece
+- Player turn switching
 
-## How to Run this code
-`` python3 main.py ``
+---
+
+## 📸 Screenshot
+*(Add your own game screenshot here)*
+
+---
+
+## 🚀 Features
+- **Chessboard Rendering** – 8×8 board with alternating colors.
+- **Piece Movement** – All chess pieces move according to their rules.
+- **Highlight Valid Moves** – Click a piece to see where it can move (green dots).
+- **Pawn Promotion** – Automatically promotes to a queen upon reaching the opposite rank.
+- **Check & Checkmate Detection** – Detects if a player’s king is under threat or the game is over.
+- **Turn-Based Gameplay** – Alternates between white and black moves.
+
+---
+
+## 🛠 Technologies Used
+- **Python 3**
+- **Pygame** (for graphics and game loop)
+
+---
+
+## 📂 Project Structure
